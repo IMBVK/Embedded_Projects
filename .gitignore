@@ -1,0 +1,7 @@
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# VS Code settings
+.vscode/settings.json
