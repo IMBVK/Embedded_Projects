@@ -1,24 +1,44 @@
-# LED Basics
+# 🚀 Embedded Projects
 
-## Objective
-Learn the fundamentals of Arduino programming.
+Welcome to my Embedded Systems portfolio.
 
-## Concepts Learned
-- setup()
-- loop()
-- pinMode()
-- digitalWrite()
-- Functions
-- for loops
-- Parameters
+This repository documents my journey in Embedded Software Development using Arduino, ESP32, Embedded C, and C++.
 
-## Functions Implemented
-- turnOnLED()
-- turnOffLED()
-- blinkNTimes(int n)
+---
 
 ## Hardware
-- Arduino Mega 2560
 
-## Status
-✅ Completed
+- Arduino Mega 2560
+- ESP32 DevKit
+- ESP8266 NodeMCU
+
+---
+
+## Current Projects
+
+| Project | Status |
+|---------|--------|
+| 01 - LED Basics | ✅ Completed |
+| 02 - Button Input | ⏳ Coming Soon |
+| 03 - Buzzer | ⏳ Coming Soon |
+| 04 - Ultrasonic Sensor | ⏳ Coming Soon |
+| 05 - LCD Display | ⏳ Coming Soon |
+
+---
+
+## Skills Covered
+
+- Embedded C
+- Arduino Programming
+- GPIO
+- Digital Input/Output
+- Functions
+- Loops
+- Sensors
+- Communication Protocols (UART, I2C, SPI)
+
+---
+
+## Goal
+
+To build industry-level embedded software projects while strengthening my C/C++ and embedded systems knowledge.
