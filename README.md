@@ -2,24 +2,24 @@
 
 Welcome to my Embedded Systems portfolio.
 
-This repository documents my hands-on journey in Embedded Software Development using Arduino, ESP32, Embedded C, and C++. Each project focuses on understanding hardware, writing efficient firmware, and applying core embedded programming concepts.
+This repository documents my hands-on journey in Embedded Software Development using Arduino, ESP32, Embedded C, and C++. Each project focuses on understanding hardware, writing firmware, and applying fundamental embedded systems concepts.
 
 ---
 
 ## 🎯 Objectives
 
-- Strengthen Embedded C/C++ programming skills
-- Learn microcontroller programming from fundamentals to advanced topics
+- Build a strong foundation in Embedded Systems
+- Learn Embedded C/C++ through practical projects
 - Understand hardware-software interaction
-- Build industry-relevant embedded projects
-- Create a professional portfolio for embedded software engineering roles
+- Develop industry-level firmware projects
+- Build a professional GitHub portfolio for Embedded Software Engineering roles
 
 ---
 
 ## 🛠 Hardware Platforms
 
 - Arduino Mega 2560
-- ESP32 DevKit
+- ESP32 DevKit *(Coming Soon)*
 - ESP8266 NodeMCU *(Coming Soon)*
 
 ---
@@ -30,7 +30,7 @@ This repository documents my hands-on journey in Embedded Software Development u
 |-----|---------|--------|
 | 01 | LED Basics | ✅ Completed |
 | 02 | Button Input | ✅ Completed |
-| 03 | LED Toggle | ⏳ Coming Soon |
+| 03 | LED Toggle | ✅ Completed |
 | 04 | Button Debouncing | ⏳ Coming Soon |
 | 05 | Multiple LEDs | ⏳ Coming Soon |
 | 06 | Traffic Light Controller | ⏳ Coming Soon |
@@ -48,34 +48,41 @@ This repository documents my hands-on journey in Embedded Software Development u
 ## 💻 Skills Covered
 
 ### Programming
+
 - Embedded C
 - C++
 - Arduino Framework
 
 ### Embedded Concepts
+
 - GPIO
 - Digital Input & Output
-- Functions
 - Variables
-- Control Statements
-- State Machines
-- Interrupts
-- Timers
-- PWM
-- ADC
+- Boolean Data Types
+- Functions
+- Conditional Statements
+- State-Based Programming
+- Edge Detection
+- Button Handling
+- Interrupts *(Coming Soon)*
+- Timers *(Coming Soon)*
+- PWM *(Coming Soon)*
+- ADC *(Coming Soon)*
 
 ### Communication Protocols
-- UART
-- I2C
-- SPI
 
-### Hardware
+- UART *(Coming Soon)*
+- I2C *(Coming Soon)*
+- SPI *(Coming Soon)*
+
+### Hardware Components
+
 - LEDs
 - Push Buttons
 - Buzzers
 - LCD Displays
-- Sensors
 - Servo Motors
+- Sensors
 
 ---
 
@@ -86,10 +93,10 @@ Embedded_Projects/
 │
 ├── README.md
 │
-├── Day-01_LED_Blink/
-├── Day-02_Button_Input/
-├── Day-03_LED_Toggle/
-├── Day-04_Button_Debouncing/
+├── 01_LED_Basics/
+├── 02_Button_Input/
+├── 03_LED_Toggle/
+├── 04_Button_Debouncing/
 │
 └── ...
 ```
@@ -98,8 +105,22 @@ Embedded_Projects/
 
 ## 🎯 Goal
 
-Build a strong foundation in embedded systems while creating industry-level projects that demonstrate practical firmware development skills for embedded software engineering roles.
+To build industry-level embedded software projects while strengthening my knowledge of Embedded C, C++, microcontrollers, and firmware development.
+
+Every project includes:
+
+- Well-documented source code
+- Project-specific README
+- Hardware description
+- Learning outcomes
+- GitHub-ready documentation
 
 ---
 
-⭐ This repository is continuously updated as I progress through my embedded systems learning journey.
+## ⭐ Progress
+
+- ✅ Day 1 Completed
+- ✅ Day 2 Completed
+- ✅ Day 3 Completed
+
+This repository is continuously updated as I progress through my embedded systems learning journey.
